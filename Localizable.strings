@@ -1,0 +1,87 @@
+﻿/* Title for add contact discard confirmation dialog */
+"JobCustomerDetailsEditFeature.addContact.discardConfirmation.sheet.title" = "JobCustomerDetailsEditFeature.addContact.discardConfirmation.sheet.title";
+
+/* Title for add contact discard confirmation dialog */
+"JobCustomerDetailsEditFeature.addContact.discardConfirmation.title" = "JobCustomerDetailsEditFeature.addContact.discardConfirmation.title";
+
+/* Title for Add Email button */
+"JobCustomerDetailsEditFeature.addEmail.title" = "JobCustomerDetailsEditFeature.addEmail.title";
+
+/* Title for Add Phone button */
+"JobCustomerDetailsEditFeature.addPhone.title" = "JobCustomerDetailsEditFeature.addPhone.title";
+
+/* Title for Contact Methods section */
+"JobCustomerDetailsEditFeature.contactMethods.title" = "JobCustomerDetailsEditFeature.contactMethods.title";
+
+/* Title for discard confirmation dialog cancel button */
+"JobCustomerDetailsEditFeature.discardConfirmation.cancel.button.title" = "JobCustomerDetailsEditFeature.discardConfirmation.cancel.button.title";
+
+/* Title for discard confirmation dialog discard button */
+"JobCustomerDetailsEditFeature.discardConfirmation.discard.button.title" = "JobCustomerDetailsEditFeature.discardConfirmation.discard.button.title";
+
+/* Error text for duplicated email address */
+"JobCustomerDetailsEditFeature.duplicatedEmail.error.text" = "JobCustomerDetailsEditFeature.duplicatedEmail.error.text";
+
+/* Error text for duplicated phone number */
+"JobCustomerDetailsEditFeature.duplicatedPhoneNumber.error.text" = "JobCustomerDetailsEditFeature.duplicatedPhoneNumber.error.text";
+
+/* Title for edit contact screen customer section */
+"JobCustomerDetailsEditFeature.editContact.customerSectionTitle" = "JobCustomerDetailsEditFeature.editContact.customerSectionTitle";
+
+/* Title for edit contact discard confirmation dialog */
+"JobCustomerDetailsEditFeature.editContact.discardConfirmation.sheet.title" = "JobCustomerDetailsEditFeature.editContact.discardConfirmation.sheet.title";
+
+/* Title for edit contact discard confirmation dialog */
+"JobCustomerDetailsEditFeature.editContact.discardConfirmation.title" = "JobCustomerDetailsEditFeature.editContact.discardConfirmation.title";
+
+/* Title for edit contact screen location section */
+"JobCustomerDetailsEditFeature.editContact.locationSectionTitle" = "JobCustomerDetailsEditFeature.editContact.locationSectionTitle";
+
+/* Placeholder for Email input */
+"JobCustomerDetailsEditFeature.email.placeholder" = "JobCustomerDetailsEditFeature.email.placeholder";
+
+/* Subtitle for Emails input list */
+"JobCustomerDetailsEditFeature.email.subtitle" = "JobCustomerDetailsEditFeature.email.subtitle";
+
+/* Placeholder for Phone Extension input */
+"JobCustomerDetailsEditFeature.ext.placeholder" = "JobCustomerDetailsEditFeature.ext.placeholder";
+
+/* Text for Fax phone type */
+"JobCustomerDetailsEditFeature.fax.text" = "JobCustomerDetailsEditFeature.fax.text";
+
+/* Error text for invalid email address */
+"JobCustomerDetailsEditFeature.invalidEmail.error.text" = "JobCustomerDetailsEditFeature.invalidEmail.error.text";
+
+/* Error text for invalid phone number */
+"JobCustomerDetailsEditFeature.invalidPhoneNumber.error.text" = "JobCustomerDetailsEditFeature.invalidPhoneNumber.error.text";
+
+/* Title for Memo input field */
+"JobCustomerDetailsEditFeature.memo.title" = "JobCustomerDetailsEditFeature.memo.title";
+
+/* Text for Mobile phone type */
+"JobCustomerDetailsEditFeature.mobile.text" = "JobCustomerDetailsEditFeature.mobile.text";
+
+/* Placeholder for Phone input */
+"JobCustomerDetailsEditFeature.phone.placeholder" = "JobCustomerDetailsEditFeature.phone.placeholder";
+
+/* Subtitle for Phones input list */
+"JobCustomerDetailsEditFeature.phone.subtitle" = "JobCustomerDetailsEditFeature.phone.subtitle";
+
+/* Text for Phone type */
+"JobCustomerDetailsEditFeature.phone.text" = "JobCustomerDetailsEditFeature.phone.text";
+
+/* Title for Phone Type picker */
+"JobCustomerDetailsEditFeature.phoneType.title" = "JobCustomerDetailsEditFeature.phoneType.title";
+
+/* Title for Save button */
+"JobCustomerDetailsEditFeature.save.button.title" = "JobCustomerDetailsEditFeature.save.button.title";
+
+/* Text for Customer save to option */
+"JobCustomerDetailsEditFeature.saveTo.customer.text" = "JobCustomerDetailsEditFeature.saveTo.customer.text";
+
+/* Text for Location save to option */
+"JobCustomerDetailsEditFeature.saveTo.location.text" = "JobCustomerDetailsEditFeature.saveTo.location.text";
+
+/* Subtitle for Save To section */
+"JobCustomerDetailsEditFeature.saveTo.subtitle" = "JobCustomerDetailsEditFeature.saveTo.subtitle";
+
