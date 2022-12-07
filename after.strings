@@ -1,0 +1,16 @@
+/* Title for the button to add media */
+"JobMediaAdd.addMedia.button.title" = "Add Media";
+
+/* Title for the add media options sheet */
+"JobMediaAdd.addMedia.sheet.title" = "Add to Current Job";
+
+/* Title to display in Add Media Action sheet to take a photo or video */
+"JobMediaAdd.addMediaAction.takePhotoVideo.title" = "Take Photo or Video";
+
+/* Title to display in Add Media Action sheet to upload a file */
+"JobMediaAdd.addMediaAction.uploadFile.title" = "Upload File";
+
+/* Title to display in Add Media Action sheet to upload a photo or video */
+"JobMediaAdd.addMediaAction.uploadPhotoVideo.title" = "Upload Photo or Video";
+
+
