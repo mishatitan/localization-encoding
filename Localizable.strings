@@ -1,87 +1,50 @@
-﻿/* Title for add contact discard confirmation dialog */
-"JobCustomerDetailsEditFeature.addContact.discardConfirmation.sheet.title" = "JobCustomerDetailsEditFeature.addContact.discardConfirmation.sheet.title";
+/* Text used on add related action sheet for adding from the camera */
+"JobBottomNavigationFeature.add.actionSheet.addCameraItem.label" = "JobBottomNavigationFeature.add.actionSheet.addCameraItem.label";
 
-/* Title for add contact discard confirmation dialog */
-"JobCustomerDetailsEditFeature.addContact.discardConfirmation.title" = "JobCustomerDetailsEditFeature.addContact.discardConfirmation.title";
+/* Text used on add related action sheet for adding equipment */
+"JobBottomNavigationFeature.add.actionSheet.addEquipment.label" = "JobBottomNavigationFeature.add.actionSheet.addEquipment.label";
 
-/* Title for Add Email button */
-"JobCustomerDetailsEditFeature.addEmail.title" = "JobCustomerDetailsEditFeature.addEmail.title";
+/* Text used on add related action sheet for adding an estimate */
+"JobBottomNavigationFeature.add.actionSheet.addEstimate.label" = "JobBottomNavigationFeature.add.actionSheet.addEstimate.label";
 
-/* Title for Add Phone button */
-"JobCustomerDetailsEditFeature.addPhone.title" = "JobCustomerDetailsEditFeature.addPhone.title";
+/* Text used on add related action sheet for adding an invoice item */
+"JobBottomNavigationFeature.add.actionSheet.addInvoice.label" = "JobBottomNavigationFeature.add.actionSheet.addInvoice.label";
 
-/* Title for Contact Methods section */
-"JobCustomerDetailsEditFeature.contactMethods.title" = "JobCustomerDetailsEditFeature.contactMethods.title";
+/* Text used on add related action sheet for adding a note */
+"JobBottomNavigationFeature.add.actionSheet.addNote.label" = "JobBottomNavigationFeature.add.actionSheet.addNote.label";
 
-/* Title for discard confirmation dialog cancel button */
-"JobCustomerDetailsEditFeature.discardConfirmation.cancel.button.title" = "JobCustomerDetailsEditFeature.discardConfirmation.cancel.button.title";
+/* Text used on add related action sheet for adding a PDF document */
+"JobBottomNavigationFeature.add.actionSheet.addPdf.label" = "JobBottomNavigationFeature.add.actionSheet.addPdf.label";
 
-/* Title for discard confirmation dialog discard button */
-"JobCustomerDetailsEditFeature.discardConfirmation.discard.button.title" = "JobCustomerDetailsEditFeature.discardConfirmation.discard.button.title";
+/* Text used on add related action sheet for adding existing media item */
+"JobBottomNavigationFeature.add.actionSheet.addPhotoOrVideo.label" = "JobBottomNavigationFeature.add.actionSheet.addPhotoOrVideo.label";
 
-/* Error text for duplicated email address */
-"JobCustomerDetailsEditFeature.duplicatedEmail.error.text" = "JobCustomerDetailsEditFeature.duplicatedEmail.error.text";
+/* Text used on add related action sheet for adding a purchase order */
+"JobBottomNavigationFeature.add.actionSheet.addPurchaseOrder.label" = "JobBottomNavigationFeature.add.actionSheet.addPurchaseOrder.label";
 
-/* Error text for duplicated phone number */
-"JobCustomerDetailsEditFeature.duplicatedPhoneNumber.error.text" = "JobCustomerDetailsEditFeature.duplicatedPhoneNumber.error.text";
+/* Title text used on add action sheet */
+"JobBottomNavigationFeature.add.actionSheet.title" = "JobBottomNavigationFeature.add.actionSheet.title";
 
-/* Title for edit contact screen customer section */
-"JobCustomerDetailsEditFeature.editContact.customerSectionTitle" = "JobCustomerDetailsEditFeature.editContact.customerSectionTitle";
+/* Label for the add button */
+"JobBottomNavigationFeature.addButton.label" = "JobBottomNavigationFeature.addButton.label";
 
-/* Title for edit contact discard confirmation dialog */
-"JobCustomerDetailsEditFeature.editContact.discardConfirmation.sheet.title" = "JobCustomerDetailsEditFeature.editContact.discardConfirmation.sheet.title";
+/* Text used on arrive button */
+"JobBottomNavigationFeature.arriveButton.label" = "JobBottomNavigationFeature.arriveButton.label";
 
-/* Title for edit contact discard confirmation dialog */
-"JobCustomerDetailsEditFeature.editContact.discardConfirmation.title" = "JobCustomerDetailsEditFeature.editContact.discardConfirmation.title";
+/* Title text used on close out action sheet */
+"JobBottomNavigationFeature.closeOut.actionSheet.title" = "JobBottomNavigationFeature.closeOut.actionSheet.title";
 
-/* Title for edit contact screen location section */
-"JobCustomerDetailsEditFeature.editContact.locationSectionTitle" = "JobCustomerDetailsEditFeature.editContact.locationSectionTitle";
+/* Text used on close out button */
+"JobBottomNavigationFeature.closeOut.label" = "JobBottomNavigationFeature.closeOut.label";
 
-/* Placeholder for Email input */
-"JobCustomerDetailsEditFeature.email.placeholder" = "JobCustomerDetailsEditFeature.email.placeholder";
+/* Text used on dispatch button */
+"JobBottomNavigationFeature.dispatchButton.label" = "JobBottomNavigationFeature.dispatchButton.label";
 
-/* Subtitle for Emails input list */
-"JobCustomerDetailsEditFeature.email.subtitle" = "JobCustomerDetailsEditFeature.email.subtitle";
+/* Text used on more related action sheet for adding a timesheet */
+"JobBottomNavigationFeature.more.actionSheet.addTimesheetEntry.label" = "JobBottomNavigationFeature.more.actionSheet.addTimesheetEntry.label";
 
-/* Placeholder for Phone Extension input */
-"JobCustomerDetailsEditFeature.ext.placeholder" = "JobCustomerDetailsEditFeature.ext.placeholder";
+/* Title text used on more action sheet */
+"JobBottomNavigationFeature.more.actionSheet.title" = "JobBottomNavigationFeature.more.actionSheet.title";
 
-/* Text for Fax phone type */
-"JobCustomerDetailsEditFeature.fax.text" = "JobCustomerDetailsEditFeature.fax.text";
-
-/* Error text for invalid email address */
-"JobCustomerDetailsEditFeature.invalidEmail.error.text" = "JobCustomerDetailsEditFeature.invalidEmail.error.text";
-
-/* Error text for invalid phone number */
-"JobCustomerDetailsEditFeature.invalidPhoneNumber.error.text" = "JobCustomerDetailsEditFeature.invalidPhoneNumber.error.text";
-
-/* Title for Memo input field */
-"JobCustomerDetailsEditFeature.memo.title" = "JobCustomerDetailsEditFeature.memo.title";
-
-/* Text for Mobile phone type */
-"JobCustomerDetailsEditFeature.mobile.text" = "JobCustomerDetailsEditFeature.mobile.text";
-
-/* Placeholder for Phone input */
-"JobCustomerDetailsEditFeature.phone.placeholder" = "JobCustomerDetailsEditFeature.phone.placeholder";
-
-/* Subtitle for Phones input list */
-"JobCustomerDetailsEditFeature.phone.subtitle" = "JobCustomerDetailsEditFeature.phone.subtitle";
-
-/* Text for Phone type */
-"JobCustomerDetailsEditFeature.phone.text" = "JobCustomerDetailsEditFeature.phone.text";
-
-/* Title for Phone Type picker */
-"JobCustomerDetailsEditFeature.phoneType.title" = "JobCustomerDetailsEditFeature.phoneType.title";
-
-/* Title for Save button */
-"JobCustomerDetailsEditFeature.save.button.title" = "JobCustomerDetailsEditFeature.save.button.title";
-
-/* Text for Customer save to option */
-"JobCustomerDetailsEditFeature.saveTo.customer.text" = "JobCustomerDetailsEditFeature.saveTo.customer.text";
-
-/* Text for Location save to option */
-"JobCustomerDetailsEditFeature.saveTo.location.text" = "JobCustomerDetailsEditFeature.saveTo.location.text";
-
-/* Subtitle for Save To section */
-"JobCustomerDetailsEditFeature.saveTo.subtitle" = "JobCustomerDetailsEditFeature.saveTo.subtitle";
-
+/* Text used on more related action sheet for viewing timesheets */
+"JobBottomNavigationFeature.more.actionSheet.viewTimesheets.label" = "JobBottomNavigationFeature.more.actionSheet.viewTimesheets.label";
