@@ -1,0 +1,50 @@
+/* Text used on arrive button */
+"JobBottomNavigationFeature.arriveButton.label" = "Arrive";
+
+/* Text used on close out button */
+"JobBottomNavigationFeature.closeOut.label" = "Close Out";
+
+/* Text used on dispatch button */
+"JobBottomNavigationFeature.dispatchButton.label" = "Dispatch";
+
+/* Label for the add button */
+"JobBottomNavigationFeature.addButton.label" = "Add";
+
+/* Label for the add camera item button */
+"JobBottomNavigationFeature.add.actionSheet.addCameraItem.label" = "Take Photo or Video";
+
+/* Label for the add equipment button */
+"JobBottomNavigationFeature.add.actionSheet.addEquipment.label" = "Equipment";
+
+/* Label for the add estimate button */
+"JobBottomNavigationFeature.add.actionSheet.addEstimate.label" = "Estimate";
+
+/* Label for the add invoice button */
+"JobBottomNavigationFeature.add.actionSheet.addInvoice.label" = "Invoice Item";
+
+/* Label for the add note button */
+"JobBottomNavigationFeature.add.actionSheet.addNote.label" = "Note";
+
+/* Label for the add pdf button */
+"JobBottomNavigationFeature.add.actionSheet.addPdf.label" = "Upload PDF";
+
+/* Label for the add photo or video button */
+"JobBottomNavigationFeature.add.actionSheet.addPhotoOrVideo.label" = "Upload Photo or Video";
+
+/* Label for the add purchase order button */
+"JobBottomNavigationFeature.add.actionSheet.addPurchaseOrder.label" = "Purchase Order";
+
+/* Title text used on add action sheet */
+"JobBottomNavigationFeature.add.actionSheet.title" = "Add";
+
+/* Title text used on close out action sheet */
+"JobBottomNavigationFeature.closeOut.actionSheet.title" = "Close Out";
+
+/* Text used on more related action sheet for adding a timesheet */
+"JobBottomNavigationFeature.more.actionSheet.addTimesheetEntry.label" = "Add Timesheet Entry";
+
+/* Title text used on more action sheet */
+"JobBottomNavigationFeature.more.actionSheet.title" = "More";
+
+/* Text used on more related action sheet for viewing timesheets */
+"JobBottomNavigationFeature.more.actionSheet.viewTimesheets.label" = "View Timesheets";
